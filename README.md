@@ -40,5 +40,3 @@ El proyecto ya está configurado para Railway con `railway.json` y script `start
    ```
 
 El servidor escucha en `0.0.0.0` y usa la variable `PORT` de Railway.
-
-Opcionalmente, define `RAILWAY_PUBLIC_DOMAIN` en Railway para restringir `preview.allowedHosts` a tu dominio público; si no está definida, la app permite hosts de preview automáticamente.
